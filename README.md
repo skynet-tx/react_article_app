@@ -1,6 +1,6 @@
 В этом репозитории находится приложение, с которым мы работаем в скринкасте “Основы React.js”
 
-Чтобы развернуть этот проект локально достаточно клонировать репозиторий: git clonehttps://github.com/skynet-tx/react_article_app.git
+Чтобы развернуть этот проект локально достаточно клонировать репозиторий: git clone https://github.com/skynet-tx/react_article_app.git
 
 Зайти в папку с проектом: cd react-screencast-code
 
